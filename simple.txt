@@ -1,1 +1,2 @@
 welcome to git learn
+we are practicing git branching stratagy
